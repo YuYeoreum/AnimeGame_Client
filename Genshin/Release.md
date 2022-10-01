@@ -31,3 +31,4 @@
 | 버전 | 이름 | 날짜 | 다운로드 | 사이즈 | 종류 |
 | --- | --- | --- | --- | --- | --- |
 | 3.0.0 | 여명을 밝히는 천 송이 장미 | 22년 8월 24일 | [다운로드](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220815143807_dyIghvy1b5fjfzHU/GenshinImpact_3.0.0.zip) | 34.5GB | 글로벌 |
+| 3.1.0 | 적토의 왕과 세 순례자 | 22년 9월 28일 | [다운로드](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220917165430_NyMmj1Ta9KlZKgCZ/GenshinImpact_3.1.0.zip) | 37.8GB | 글로벌 |
